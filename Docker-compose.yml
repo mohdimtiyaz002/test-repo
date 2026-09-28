@@ -24,4 +24,7 @@ volumes:
 
 secrets:
 username: testuser
-password: ADMIN
+password: "ADMIN"
+
+
+
