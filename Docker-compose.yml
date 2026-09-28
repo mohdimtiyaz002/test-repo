@@ -21,3 +21,7 @@ services:
 
 volumes:
   userdata:
+
+secrets:
+username: testuser
+password: ADMIN
